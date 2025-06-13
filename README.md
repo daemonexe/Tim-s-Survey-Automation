@@ -17,7 +17,7 @@ Simply enter your name and the 21-character survey code, and this application ha
 - **Hosting:** Vercel
 
 ## **API:** Tim Hortons survey API (POST) 
-Backend API created by Rahul
+Special Thanks to Rahul for working on the backend 
 [GitHub](https://github.com/RahulDusajeFSD/timhortons-survey-automation-spring-boot-app)
 
 ## 🔹 Installation (Developer)
